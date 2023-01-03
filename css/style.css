@@ -103,8 +103,7 @@ body {
 
 @media (max-width:480px) {
         .img_icono {
-            top: 80px;
-            left: 147px;
+            left: 35%;
         }
 }
 
