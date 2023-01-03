@@ -104,6 +104,7 @@ body {
 @media (max-width:480px) {
         .img_icono {
             left: 35%;
+            top: 145px;
         }
 }
 
