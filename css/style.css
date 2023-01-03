@@ -101,12 +101,7 @@ body {
     border: blue 3px solid;
 }
 
-@media (max-width:480px) {
-        .img_icono {
-            left: 35%;
-            top: 145px;
-        }
-}
+
 
 /*h1*/
 
